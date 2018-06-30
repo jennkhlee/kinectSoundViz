@@ -1,7 +1,5 @@
 /* Jenn (Ka Hyun) Lee
-Professor Leong
-ITGM 347: Applied Principles | Physical Computing
-Project B: Sound Visualization Kinect
+A sound visualization test/exploration project for the Kinect v1. Featuring "hitboxes" and fun point cloud rotation!
 */
 
 // KINECT LIBRARY (SIMPLEOPENNI)
